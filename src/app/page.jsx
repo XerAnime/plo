@@ -7,20 +7,20 @@ export default async function Home() {
 			<div className={styles.content}>
 				<div className={styles.contentContainer}>
 					<Link
-						href={"/anime"}
+						href={""}
 						title="Click here to get redirected to the anime webpage"
 					>
 						<div className={styles.anime}>
-							<h2>Anime</h2>
-							<p>Your one stop for all your anime needs</p>
+							<h2>WELCOME TO XERFLIX</h2>
+							<p>Enjoy Watching Your Favorite Kdrama, Movie, Anime, Tv- series, Fir Free Without Ads</p>
 						</div>
 					</Link>
 					<Link
-						href={"/manga"}
+						href={"/anime"}
 						title="Click here to get redirected to the manga webpage"
 					>
 						<div className={styles.manga}>
-							<h2>Manga</h2>
+							<h2>Anime</h2>
 							<p>Your one stop for all your manga needs</p>
 						</div>
 					</Link>
