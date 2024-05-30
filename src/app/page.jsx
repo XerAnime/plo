@@ -21,7 +21,7 @@ export default async function Home() {
 					>
 						<div className={styles.manga}>
 							<h2>Anime</h2>
-							<p>Your one stop for all your anime needs</p>
+							<p>Your one stop for all your manga needs</p>
 						</div>
 					</Link>
 					<Link
