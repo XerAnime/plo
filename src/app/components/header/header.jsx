@@ -14,7 +14,7 @@ export default async function Header() {
 					</Link>
 				</div>
 				<div className={styles.right}>
-					<Link href="">Home</Link>
+					<Link href="/">Home</Link>
 					<Link href="/kdrama">Kdrama</Link>
 					<Link href="/Anime">Anime</Link>
 					<Link href="/movies">Movies</Link>
