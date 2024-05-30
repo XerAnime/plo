@@ -17,11 +17,11 @@ export default async function Home() {
 					</Link>
 					<Link
 						href={"/anime"}
-						title="Click here to get redirected to the manga webpage"
+						title="Click here to get redirected to the anime webpage"
 					>
-						<div className={styles.manga}>
+						<div className={styles.anime}>
 							<h2>Anime</h2>
-							<p>Your one stop for all your manga needs</p>
+							<p>Your one stop for all your Anime needs</p>
 						</div>
 					</Link>
 					<Link
