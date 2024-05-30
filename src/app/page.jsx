@@ -8,7 +8,7 @@ export default async function Home() {
 				<div className={styles.contentContainer}>
 					<Link
 						href={""}
-						title="Click here to get redirected to the anime webpage"
+						title="Click here to get redirected to the  webpage"
 					>
 						<div className={styles.anime}>
 							<h2>WELCOME TO XERFLIX</h2>
@@ -17,7 +17,7 @@ export default async function Home() {
 					</Link>
 					<Link
 						href={"/anime"}
-						title="Click here to get redirected to the anime webpage"
+						title="Click here to get redirected to the manga webpage"
 					>
 						<div className={styles.manga}>
 							<h2>Anime</h2>
