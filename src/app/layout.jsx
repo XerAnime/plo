@@ -8,14 +8,14 @@ import { Analytics } from "@vercel/analytics/react";
 const lexend = Lexend_Deca({ subsets: ["latin"] });
 
 export const metadata = {
-	title: "Dramalama",
+	title: "XerFlix",
 	description:
-		"Online service to watch kdramas and anime for free. You can also read and download mangas for free.",
+		"Online Service To Watch Kadramas, Movie, Tv-Series And Anime For Free.",
 	generator: "Next.js",
-	applicationName: "Dramalama",
-	authors: [{ name: "zephex", url: "https://github.com/real-zephex" }],
-	creator: "Zephex",
-	keywords: ["Kdrama", "Anime", "Manga", "Watch Online"],
+	applicationName: "XerFlix",
+	authors: [{ name: "Xer", url: "https://github.com/real-zephex" }],
+	creator: "Xer",
+	keywords: ["Kdrama", "Anime", "Tv-Series", "Watch Online"],
 	robots: {
 		index: true,
 		follow: true,
@@ -34,7 +34,7 @@ export const metadata = {
 		yandex: "yandex",
 		yahoo: "yahoo",
 		other: {
-			me: ["zephex@duck.com"],
+			me: ["Xerflix@duck.com"],
 		},
 	},
 };
